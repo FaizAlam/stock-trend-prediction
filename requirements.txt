@@ -1,0 +1,21 @@
+beautifulsoup4 @ file:///home/linux1/recipes/ci/beautifulsoup4_1610988766420/work
+json5==0.9.5
+keras==2.6.0
+Keras-Preprocessing==1.1.2
+ourse/worker/volumes/live/42fc56a4-88b4-4605-6037-9605f4e5eeeb/volume/lxml_1616443240194/work
+matplotlib @ file:///opt/concourse/worker/volumes/live/41e8cd50-031f-4dda-5787-dd3c4f4e0f08/volume/matplotlib-suite_1613407855571/work
+numpy==1.19.5
+numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
+pandas==1.2.4
+pandas-datareader==0.10.0
+pandocfilters @ file:///opt/concourse/worker/volumes/live/c330e404-216d-466b-5327-8ce8fe854d3a/volume/pandocfilters_1605120442288/work
+requests @ file:///tmp/build/80754af9/requests_1608241421344/work
+scikit-learn @ file:///opt/concourse/worker/volumes/live/0c77b068-a026-4996-6842-33e5544ec13b/volume/scikit-learn_1614446667823/work
+streamlit==0.89.0
+tensorboard==2.6.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.0
+tensorflow==2.6.0
+tensorflow-estimator==2.6.0
+unicodecsv==0.14.1
+urllib3 @ file:///tmp/build/80754af9/urllib3_1615837158687/work
